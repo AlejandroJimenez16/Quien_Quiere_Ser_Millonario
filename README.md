@@ -77,5 +77,18 @@ El proyecto contiene las siguientes actividades y diseños:
 ![image](https://github.com/user-attachments/assets/cd8bdf20-f7db-453b-8f91-0c5ad172211a)
 ![image](https://github.com/user-attachments/assets/4fe63bb7-dc03-431f-86de-5b687c198809)
 
+## Futuras Mejoras
+
+Algunas posibles mejoras para el futuro incluyen:
+
+- Agregar más preguntas para hacer el juego más interesante.
+- Incluir un sistema de puntajes o niveles.
+- Implementar ayudas al estilo del programa original, como el comodín del 50:50 o llamar a un amigo.
+
+
+
+
+
+
 
 
